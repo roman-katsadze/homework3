@@ -1,0 +1,39 @@
+{
+  "products": {
+    "product1": {
+      "id": "p001",
+      "name": "Sony PlayStation 5",
+      "price": 1550,
+      "description": "ულტრა-სწრაფი SSD და იმერსიული გეიმინგ გამოცდილება 4K მხარდაჭერით.",
+      "category": "კონსოლები"
+    },
+    "product2": {
+      "id": "p002",
+      "name": "Dell XPS 13",
+      "price": 3400,
+      "description": "პრემიუმ კლასის ლეპტოპი InfinityEdge დისპლეით და უახლესი პროცესორით.",
+      "category": "ლეპტოპები"
+    },
+    "product3": {
+      "id": "p003",
+      "name": "Marshall Emberton II",
+      "price": 520,
+      "description": "კომპაქტური პორტატიული დინამიკი 30+ საათიანი ავტონომიური მუშაობით.",
+      "category": "აუდიო"
+    },
+    "product4": {
+      "id": "p004",
+      "name": "Samsung Odyssey G7",
+      "price": 1800,
+      "description": "27-ინჩიანი მოხრილი გეიმინგ მონიტორი 240Hz განახლების სიხშირით.",
+      "category": "მონიტორები"
+    },
+    "product5": {
+      "id": "p005",
+      "name": "Keychron K2 V2",
+      "price": 310,
+      "description": "მექანიკური უკაბელო კლავიატურა RGB განათებით და Gateron-ის სვიჩებით.",
+      "category": "აქსესუარები"
+    }
+  }
+}
